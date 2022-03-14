@@ -1,0 +1,918 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>6 Black and White Photography Tips for Monochrome Enthusiasts | PetaPixel</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<meta content="no" name="apple-mobile-web-app-capable">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="PetaPixel">
+<link rel="alternate" type="application/rss+xml" title="PetaPixel RSS Feed" href="https://petapixel.com/feed/" />
+<link rel="pingback" href="https://petapixel.com/xmlrpc.php" />
+<link rel="apple-touch-icon" href="https://petapixel.com/wp-content/themes/petapixel-2017//assets/img/apple-touch-icon.png" />
+<link rel="preload" href="https://petapixel.com/wp-content/themes/petapixel-2017/assets/prod/fonts/gibson-semibold-webfont.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="https://petapixel.com/wp-content/themes/petapixel-2017/assets/prod/fonts/ProximaNova-Regular.woff" as="font" type="font/woff" crossorigin>
+
+<link rel="stylesheet" href="https://a.pub.network/core/pubfig/cls.css">
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.hitTime = Date.now();
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+  freestar.config.enabled_slots = [];
+  !function(a,b){var c=b.getElementsByTagName("script")[0],d=b.createElement("script"),e="https://a.pub.network/petapixel";e+=freestar.debug?"/qa/pubfig.min.js":"/pubfig.min.js",d.async=!0,d.src=e,c.parentNode.insertBefore(d,c)}(window,document);
+  freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots); }
+</script>
+
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-664578-8', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+  function downloadJSAtOnload() {
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/petapixel/loader.js');
+  }
+  if (window.addEventListener)
+  window.addEventListener("load", downloadJSAtOnload, false);
+  else if (window.attachEvent)
+  window.attachEvent("onload", downloadJSAtOnload);
+  else window.onload = downloadJSAtOnload;
+</script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+  freestar.queue.push(function() {
+    googletag.pubads().setTargeting("PostID","151899");
+    googletag.pubads().setTargeting("Home","No");
+    googletag.pubads().setTargeting("Tag","blackandwhite,blackandwhitephotography,monochromatic,monochrome,Tips");
+          googletag.pubads().setTargeting("Category","Tips");
+      });
+</script>
+<div id="fb-root"></div>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.async=true;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=207578995971836";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+  t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.async=true;
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+  t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<meta name="description" content="Thanks to digital technology, monochrome photography is easier today than ever before. Check out these six black and white photography tips for getting" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="6 Black and White Photography Tips for Monochrome Enthusiasts" />
+<meta property="og:description" content="Thanks to digital technology, monochrome photography is easier today than ever before. Check out these six black and white photography tips for getting" />
+<meta property="og:url" content="https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/" />
+<meta property="og:site_name" content="PetaPixel" />
+<meta property="article:publisher" content="https://facebook.com/petapixelcom" />
+<meta property="article:published_time" content="2014-11-24T18:00:30+00:00" />
+<meta property="article:modified_time" content="2014-11-24T21:31:14+00:00" />
+<meta property="og:image" content="https://petapixel.com/assets/uploads/2014/11/ansel1.jpg" />
+<meta property="og:image:width" content="640" />
+<meta property="og:image:height" content="513" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@petapixel" />
+<meta name="twitter:site" content="@petapixel" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Guest Author" />
+<meta name="twitter:label2" content="Est. reading time" />
+<meta name="twitter:data2" content="5 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://petapixel.com/#organization","name":"PetaPixel","url":"https://petapixel.com/","sameAs":["https://facebook.com/petapixelcom","http://instagram.com/petapixel","https://www.youtube.com/user/petapixelcom","https://twitter.com/petapixel"],"logo":{"@type":"ImageObject","@id":"https://petapixel.com/#logo","inLanguage":"en-US","url":"https://petapixel.com/assets/uploads/2021/03/petapixellogo.jpg","contentUrl":"https://petapixel.com/assets/uploads/2021/03/petapixellogo.jpg","width":1600,"height":481,"caption":"PetaPixel"},"image":{"@id":"https://petapixel.com/#logo"}},{"@type":"WebSite","@id":"https://petapixel.com/#website","url":"https://petapixel.com/","name":"PetaPixel","description":"Photography and Camera News, Reviews, and Inspiration","publisher":{"@id":"https://petapixel.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://petapixel.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#primaryimage","inLanguage":"en-US","url":"https://petapixel.com/assets/uploads/2014/11/ansel1.jpg","contentUrl":"https://petapixel.com/assets/uploads/2014/11/ansel1.jpg","width":640,"height":513},{"@type":"WebPage","@id":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#webpage","url":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/","name":"6 Black and White Photography Tips for Monochrome Enthusiasts","isPartOf":{"@id":"https://petapixel.com/#website"},"primaryImageOfPage":{"@id":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#primaryimage"},"datePublished":"2014-11-24T18:00:30+00:00","dateModified":"2014-11-24T21:31:14+00:00","description":"Thanks to digital technology, monochrome photography is easier today than ever before. Check out these six black and white photography tips for getting","breadcrumb":{"@id":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/"]}]},{"@type":"BreadcrumbList","@id":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://petapixel.com/"},{"@type":"ListItem","position":2,"name":"6 Black and White Photography Tips for Monochrome Enthusiasts"}]},{"@type":["Article","NewsArticle"],"@id":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#article","isPartOf":{"@id":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#webpage"},"author":{"@id":"https://petapixel.com/#/schema/person/68dac964aa80cb5fb432c88eeb0d7a11"},"headline":"6 Black and White Photography Tips for Monochrome Enthusiasts","datePublished":"2014-11-24T18:00:30+00:00","dateModified":"2014-11-24T21:31:14+00:00","mainEntityOfPage":{"@id":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#webpage"},"wordCount":1098,"commentCount":20,"publisher":{"@id":"https://petapixel.com/#organization"},"image":{"@id":"https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#primaryimage"},"thumbnailUrl":"https://petapixel.com/assets/uploads/2014/11/ansel1.jpg","keywords":["blackandwhite","blackandwhitephotography","monochromatic","monochrome","Tips"],"articleSection":["Tips"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#respond"]}],"copyrightYear":"2014","copyrightHolder":{"@id":"https://petapixel.com/#organization"}},{"@type":"Person","@id":"https://petapixel.com/#/schema/person/68dac964aa80cb5fb432c88eeb0d7a11","name":"Guest Author","sameAs":["https://petapixel.com"],"url":"https://petapixel.com/author/guest/"}]}</script>
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="PetaPixel &raquo; 6 Black and White Photography Tips for Monochrome Enthusiasts Comments Feed" href="https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://petapixel.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://petapixel.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://petapixel.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pcp_swiper-css' href='https://petapixel.com/wp-content/plugins/post-carousel/public/assets/css/swiper-bundle.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pcp-style-css' href='https://petapixel.com/wp-content/plugins/post-carousel/public/assets/css/style.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='qc-choice-css' href='https://petapixel.com/wp-content/plugins/quantcast-choice/public/css/style.min.css?ver=2.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='theme_styles-css' href='https://petapixel.com/wp-content/themes/petapixel-2017/assets/prod/css/main.css?ver=2.0.49' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-add-custom-css-css' href='https://petapixel.com?display_custom_css=css&#038;ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://petapixel.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.9' type='text/css' media='all' />
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" id='qc-choice-js-extra'>
+/* <![CDATA[ */
+var choice_cmp_config = {"utid":"16iVe7IhjkhDo","enabled":"all","ccpa":"","datalayer":""};
+/* ]]> */
+</script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" async="async" src='https://petapixel.com/wp-content/plugins/quantcast-choice/public/js/script.min.js?ver=2.0.4' id='qc-choice-js'></script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" src='https://petapixel.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" src='https://petapixel.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://petapixel.com/wp-json/" /><link rel="alternate" type="application/json" href="https://petapixel.com/wp-json/wp/v2/posts/151899" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://petapixel.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://petapixel.com/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://petapixel.com/?p=151899' />
+<link rel="alternate" type="application/json+oembed" href="https://petapixel.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpetapixel.com%2F2014%2F11%2F24%2F6-black-white-photography-tips-monochrome-enthusiasts%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://petapixel.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpetapixel.com%2F2014%2F11%2F24%2F6-black-white-photography-tips-monochrome-enthusiasts%2F&#038;format=xml" />
+
+
+<style type='text/css'>img#wpstats{display:none}</style>
+</head>
+<body class="post-template-default single single-post postid-151899 single-format-standard">
+<div class="banners banners-above-header">
+
+<div align="center" data-freestar-ad="__1x1" id="PetaPixel_1x1_ATF">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "PetaPixel_1x1_ATF", slotId: "PetaPixel_1x1_ATF" });
+  </script>
+</div>
+</div>
+<div class="header-container">
+<header class="header-main">
+<div class="header-main__inner wrapper">
+
+<div class="header-main__logo">
+<div class="logo" role="banner">
+<h1>PetaPixel</h1>
+<a class="logo-link fullsize-link" href="https://petapixel.com" rel="home">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 485.625 123.76" xmlns:v="https://vecta.io/nano"><defs><linearGradient id="A" x1="480.851" y1="87.606" x2="477.395" y2="16.757" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0265dc" /><stop offset="1" stop-color="#3885e4" /></linearGradient><linearGradient id="B" x1="432.057" y1="89.986" x2="428.601" y2="19.137" xlink:href="#A" /><linearGradient id="C" x1="365.81" y1="93.217" x2="362.354" y2="22.368" xlink:href="#A" /><linearGradient id="D" x1="322.292" y1="95.18" x2="318.813" y2="23.875" xlink:href="#A" /><linearGradient id="E" x1="280.081" y1="97.399" x2="276.625" y2="26.55" xlink:href="#A" /><linearGradient id="F" x1="198.826" y1="88.884" x2="218.026" y2="-14.029" gradientUnits="userSpaceOnUse"><stop offset="0" /><stop offset=".5" stop-color="#3a3a3a" /></linearGradient><linearGradient id="G" x1="142.554" y1="78.386" x2="161.754" y2="-24.528" xlink:href="#F" /><linearGradient id="H" x1="102.414" y1="70.897" x2="121.615" y2="-32.016" xlink:href="#F" /><linearGradient id="I" x1="26.73" y1="56.777" x2="45.93" y2="-46.137" xlink:href="#F" /></defs><path d="M485.831,119.993H473.275V2h12.556Z" fill="url(#A)" /><path d="M466.843 103.5a46.387 46.387 0 0 1-15.43 13.312 40.251 40.251 0 0 1-19.211 4.842 38.623 38.623 0 0 1-18.456-4.69 34.608 34.608 0 0 1-12.4-13.766 40.667 40.667 0 0 1-4.236-18.455 39.87 39.87 0 0 1 7.79-24.124q7.789-10.665 16.035-11.951a88.889 88.889 0 0 1 11.27-1.286 38.479 38.479 0 0 1 18.076 4.387 26.66 26.66 0 0 1 12.329 13.388 52.362 52.362 0 0 1 3.934 21.1h-56.882a25.959 25.959 0 0 0 6.486 17.7 20.742 20.742 0 0 0 16.3 7.413 22.343 22.343 0 0 0 5.429-.6 21.933 21.933 0 0 0 10.412-4.312 45.958 45.958 0 0 0 8.6-9.152zm-12.556-26.317a23.509 23.509 0 0 0-8.017-13.841 22.475 22.475 0 0 0-14.976-5.371 18.808 18.808 0 0 0-13.539 5.673 27.019 27.019 0 0 0-7.64 13.539z" fill="url(#B)" /><path d="M399.908 49.651l-27.87 34.642 27.53 35.7-15.985.077-18.472-26.923-18.69 26.924-15.529-.078L358.275 85.2l-27.383-35.549 15.917.09 18.5 27 19.018-27.061z" fill="url(#C)" /><path d="M328.064,119.993H315.509V49.651h12.555Z" fill="url(#D)" /><path d="M311.333 35.817v3.924a29.062 29.062 0 0 1-7.542 20.145q-7.542 8.374-19.758 9.582h-23.377v50.525h-13.765V8.051l36.305.454a34.94 34.94 0 0 1 20.044 8.677 24.017 24.017 0 0 1 8.093 18.635zM286.222 21.81a42.2 42.2 0 0 0-7.413-1.81h-18.153v38.274H283.2a18.641 18.641 0 0 0 10.287-7.457 20.963 20.963 0 0 0 3.782-12.131 19.192 19.192 0 0 0-2.723-10.095 16.583 16.583 0 0 0-8.324-6.781z" fill="url(#E)" /><path d="M233.727,119.585H222.212V105.46a27.346,27.346,0,0,1-11.669,11.858,33.911,33.911,0,0,1-16.429,4.263,36.759,36.759,0,0,1-8.291-.924q-3.995-.924-10.133-4.769t-10.978-12.924a40.762,40.762,0,0,1-1.171-36.155A57.293,57.293,0,0,1,172.022,55.2q5.88-6.539,17.033-8.54a25.431,25.431,0,0,0,2.675-.154q1.449-.151,2.214-.153a32.421,32.421,0,0,1,15.661,3.838A33.435,33.435,0,0,1,221.6,61.394V48.19h12.13ZM219.3,96.933a33.6,33.6,0,0,0,2.3-12.355,29.97,29.97,0,0,0-3.98-15.442A23.7,23.7,0,0,0,205.68,59.1a29.692,29.692,0,0,0-6.737-.926q-3.98-.154-4.589-.156a23.447,23.447,0,0,0-15.766,9.654A29.407,29.407,0,0,0,172.619,85.5a26.987,26.987,0,0,0,2.219,11.043,27,27,0,0,0,8.035,9.731,22.122,22.122,0,0,0,14.389,4.709A23.682,23.682,0,0,0,219.3,96.933Z" fill="url(#F)" /><path d="M165.293,58.938H152.549v60.647H140.113V58.938H128.905V49.111h11.208V20.4h12.436V49.111h12.744Z" fill="url(#G)" /><path d="M133.933,103.233a47.108,47.108,0,0,1-15.66,13.512,40.871,40.871,0,0,1-19.5,4.913,39.2,39.2,0,0,1-18.731-4.76,35.119,35.119,0,0,1-12.59-13.972,41.282,41.282,0,0,1-4.3-18.732A40.47,40.47,0,0,1,71.06,59.705q7.905-10.824,16.275-12.129a90.18,90.18,0,0,1,11.438-1.3,39.057,39.057,0,0,1,18.348,4.452,27.059,27.059,0,0,1,12.513,13.588,53.152,53.152,0,0,1,3.992,21.418H75.9a26.36,26.36,0,0,0,6.583,17.965,21.055,21.055,0,0,0,16.541,7.523,22.686,22.686,0,0,0,5.511-.614,22.287,22.287,0,0,0,10.568-4.376,46.67,46.67,0,0,0,8.727-9.289ZM121.19,76.517a23.869,23.869,0,0,0-8.138-14.049,22.816,22.816,0,0,0-15.2-5.45A19.09,19.09,0,0,0,84.11,62.776a27.423,27.423,0,0,0-7.753,13.741Z" fill="url(#H)" /><path d="M65.613 34.149v3.982a29.5 29.5 0 0 1-7.655 20.447Q50.3 67.077 37.9 68.3H14.178v51.282H.206V5.968l36.849.46A35.452 35.452 0 0 1 57.4 15.235a24.377 24.377 0 0 1 8.213 18.914zM40.126 19.932A42.644 42.644 0 0 0 32.6 18.1H14.178v38.842h22.877A18.924 18.924 0 0 0 47.5 49.373a21.269 21.269 0 0 0 3.839-12.312 19.483 19.483 0 0 0-2.769-10.247 16.83 16.83 0 0 0-8.444-6.882z" fill="url(#I)" /></svg>
+</a>
+</div>
+</div>
+
+<div class="header-main__nav">
+<nav class="header-nav" role="navigation">
+<div class="header-nav__trigger">
+<span></span>
+</div>
+<ul id="menu-primary-navigation" class="menu"><li id="menu-item-205430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-205430"><a href="https://petapixel.com/topic/news/">News</a></li>
+<li id="menu-item-521652" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-521652"><a href="https://petapixel.com/topic/reviews/">Reviews</a></li>
+<li id="menu-item-205428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-205428"><a href="https://petapixel.com/topic/equipment/">Equipment</a></li>
+<li id="menu-item-205433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205433"><a href="https://petapixel.com/archives/">Archives</a></li>
+<li id="menu-item-271712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-271712"><a href="https://petapixel.com/contact/">Send a Tip</a></li>
+<li id="menu-item-205434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-205434"><a href="#">Links</a>
+<ul class="sub-menu">
+<li id="menu-item-205437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205437"><a href="https://petapixel.com/about/">About</a></li>
+<li id="menu-item-205438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205438"><a href="https://petapixel.com/contact/">Contact</a></li>
+<li id="menu-item-205439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205439"><a href="https://petapixel.com/advertise/">Advertise</a></li>
+<li id="menu-item-205436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205436"><a href="https://petapixel.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-205435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205435"><a href="https://petapixel.com/disclosure/">Full Disclosure</a></li>
+</ul>
+</li>
+</ul> </nav>
+</div>
+
+<div class="header-main__search">
+<div class="header-search">
+<a class="header-search__trigger">Search</a>
+<div class="header-search__popup">
+<div class="header-search__form-container">
+<form class="header-search__form" action="https://petapixel.com" method="GET">
+<div class="header-search__input">
+<input type="text" required="required" id="header-search__field" name="s">
+<label for="header-search__field"><span>Type here</span> what you are looking for</label>
+</div>
+<div class="header-search__submit">
+<button class="submit">Search</button>
+</div>
+</form>
+<a class="header-search__close"></a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header-main__socials">
+<div class="header-socials">
+<div class="header-socials__visible">
+<ul class="no-list">
+<li>
+<a target="_blank" href="https://www.facebook.com/petapixelcom">
+<div class="social fb "></div>
+<span>500 K</span>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/PetaPixel">
+<div class="social twitter "></div>
+<span>1 M</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="header-socials__dropdown">
+<ul class="no-list">
+<li>
+<h3>Facebook</h3>
+<h4>500 K / likes</h4>
+<a target="_blank" class="fullsize-link" href="https://www.facebook.com/petapixelcom"></a>
+</li>
+<li>
+<h3>Twitter</h3>
+<h4>1 M / followers</h4>
+<a target="_blank" class="fullsize-link" href="https://twitter.com/PetaPixel"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</header>
+</div>
+<div class="banners banners-below-header">
+
+<div align="center" data-freestar-ad="__336x280" id="PetaPixel_300x600_300x250_320x50_Mobile">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "PetaPixel_300x600_300x250_320x50_Mobile", slotId: "PetaPixel_300x600_300x250_320x50_Mobile" });
+  </script>
+</div>
+</div>
+<div class="page page-home page--sidebar page--sidebar-right wrapper">
+<div class="page__row">
+<div class="page__content">
+<article class="post-full" data-post-id="151899">
+<div class="banners banners-desktop banners-before-post">
+
+<div align="center" data-freestar-ad="__728x90" id="PetaPixel_728x90_ATF_Desktop" style='height:90px; width:728px;'>
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "PetaPixel_728x90_ATF_Desktop", slotId: "PetaPixel_728x90_ATF_Desktop" });
+  </script>
+</div>
+</div>
+<header class="post-full__header">
+<h1>6 Black and White Photography Tips for Monochrome Enthusiasts</h1>
+<div class="post-meta">
+<div class="post-meta__option">
+<i class="icon-meta icon-meta--datetime"></i>
+<time datetime="2014-11-24 18:00:30">Nov 24, 2014</time>
+</div>
+<div class="post-meta__option">
+<i class="icon-meta icon-meta--author"></i>
+<span>Jeff Meyer</span>
+</div>
+</div>
+</header>
+<div class="post-sharing">
+<div class="post-sharing__option post-sharing__option--socials">
+<div class="sharing-buttons">
+<div class="sharing-buttons__option sharing-buttons__option--fb">
+<div class="fb-share-button" data-href="https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/" data-layout="button_count" data-size="large" data-mobile-iframe="true">
+<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpetapixel.com%2F2014%2F11%2F24%2F6-black-white-photography-tips-monochrome-enthusiasts%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a>
+</div>
+</div>
+<div class="sharing-buttons__option sharing-buttons__option--twitter">
+<a class="twitter-share-button" href="https://twitter.com/intent/tweet" data-size="large">Tweet</a>
+</div>
+</div>
+</div>
+<div class="post-sharing__option post-sharing__option--comments">
+<h4 class="gray">
+<a href="https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#disqus_thread" class="disqus-comment-count" data-disqus-identifier="151899">20 Comments</a>
+</h4>
+</div>
+</div>
+<div class="post-full__content">
+<div class="post-full__text default-css">
+<p><img loading="lazy" src="https://petapixel.com/assets/uploads/2014/11/ansel1.jpg" alt="ansel1" width="640" height="513" class="aligncenter size-full wp-image-151903" srcset="https://petapixel.com/assets/uploads/2014/11/ansel1.jpg 640w, https://petapixel.com/assets/uploads/2014/11/ansel1-320x257.jpg 320w" sizes="(max-width: 640px) 100vw, 640px" /></p> <p>Thanks to digital technology, monochrome photography is easier today than ever before. Check out these six black and white photography tips for getting great results.</p> <h3>1. Shoot RAW + JPEG</h3> <p>The best monochrome conversions are made by editing raw files which have the full colour information, but if you shoot raw and JPEG files simultaneously and set the camera to its monochrome Picture Style/Picture Control/Film Simulation mode you get an indication of how the image will look in black and white.</p><div class="video-aspect-wrapper"><div id="ppvideoadvertisement"></div></div> <p><img loading="lazy" src="https://petapixel.com/assets/uploads/2014/11/baw1.jpg" alt="baw1" width="610" height="407" class="aligncenter size-full wp-image-151904" srcset="https://petapixel.com/assets/uploads/2014/11/baw1.jpg 610w, https://petapixel.com/assets/uploads/2014/11/baw1-320x214.jpg 320w, https://petapixel.com/assets/uploads/2014/11/baw1-450x300.jpg 450w, https://petapixel.com/assets/uploads/2014/11/baw1-300x200.jpg 300w, https://petapixel.com/assets/uploads/2014/11/baw1-120x80.jpg 120w" sizes="(max-width: 610px) 100vw, 610px" /></p> <p>As many photographers struggle to visualise a scene in black and white, these monochrome modes are an invaluable tool that will help with composition and scene assessment.</p> <p>Many cameras are also capable of producing decent in-camera monochrome images these days and it’s worth experimenting with image parameters (usually contrast, sharpness, filter effects and toning) to find a look that you like.</p> <p>Because compact system cameras and compact cameras show the scene seen by the sensor with camera settings applied, users of these cameras are able to preview the monochrome image in the electronic viewfinder or on rear screen before taking the shot.</p><div class="instream_ad">
+<div align="center" data-freestar-ad="__300x250 __300x250" id="PetaPixel_728x90_300x250_BTF_Instream-posts-full_static">
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function(){
+      freestar.newAdSlots([{
+      placementName: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static',
+      slotId: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static'
+      }]);
+    });
+    </script>
+</div>
+</div>
+<p>DSLR users can also do this if they activate their camera’s live view system, but the usually slower responses mean that many will find it preferable or check the image on the screen post-capture.</p> <h3>2. Look for Contrast, Shape and Texture</h3> <p>The complimentary and opposing colours that bring a colour image to life are all reduced to black and white or shades of grey in a monochrome image and you have to look for tonal contrast to make a shot stand out.</p> <p><img loading="lazy" src="https://petapixel.com/assets/uploads/2014/11/baw2.jpg" alt="baw2" width="610" height="407" class="aligncenter size-full wp-image-151905" srcset="https://petapixel.com/assets/uploads/2014/11/baw2.jpg 610w, https://petapixel.com/assets/uploads/2014/11/baw2-320x214.jpg 320w, https://petapixel.com/assets/uploads/2014/11/baw2-450x300.jpg 450w, https://petapixel.com/assets/uploads/2014/11/baw2-300x200.jpg 300w, https://petapixel.com/assets/uploads/2014/11/baw2-120x80.jpg 120w" sizes="(max-width: 610px) 100vw, 610px" /></p> <p>In colour photography, for example, your eye would immediately be drawn to a red object on a green background, but in monochrome photography these two areas are likely to have the same brightness, so the image looks flat and dull straight from the camera.</p> <p>Fortunately, it’s possible to work adjust the brightness of these two colours separately to introduce some contrast. However, a good starting point is to look for scenes with tonal contrast.</p> <p>There are always exceptions, but as a general rule look for scenes that contain some strong blacks and whites.</p> <p>This can be achieved by the light or by the brightness (or tone) of the objects in the scene as well as the exposure settings that you use. The brightness of the bark of a silver birch tree for example, could inject some contrast (and interest) in to a woodland scene.</p><div class="instream_ad">
+<div align="center" data-freestar-ad="__300x250 __300x250" id="PetaPixel_728x90_300x250_BTF_Instream-posts-full_static_2">
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function(){
+      freestar.newAdSlots([{
+      placementName: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static',
+      slotId: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static_2'
+      }]);
+    });
+    </script>
+</div>
+</div>
+<p>Setting the exposure for these brighter areas also makes the shadows darker, so the highlights stand out even more. Look for shapes, patterns and textures in a scene and move around to find the best composition.</p> <h3>3. Try Long Exposure</h3> <p>Long exposure shots can work really well in monochrome photography, especially where there’s moving water or clouds.</p> <p><img loading="lazy" src="https://petapixel.com/assets/uploads/2014/11/baw3.jpg" alt="baw3" width="610" height="610" class="aligncenter size-full wp-image-151906" srcset="https://petapixel.com/assets/uploads/2014/11/baw3.jpg 610w, https://petapixel.com/assets/uploads/2014/11/baw3-100x100.jpg 100w, https://petapixel.com/assets/uploads/2014/11/baw3-320x320.jpg 320w" sizes="(max-width: 610px) 100vw, 610px" /></p> <p>During the exposure the highlights of the water, for example, are recorded across a wider area than they would with a short exposure and this can help enhance tonal contrast.</p> <p>The blurring of the movement also adds textural contrast with any solid objects in the frame. If necessary, use a neutral density filter such as Lee Filters’ Big Stopper or Little Stopper to reduce exposure and extend shutter speed (by 10 and 4 stops respectively).</p> <p>Naturally, when exposures extend beyond about 1/60 sec a tripod is required to keep the camera still and avoid blurring. It’s also advisable to use a remote release and mirror lock-up to minimise vibration and produce super-sharp images.</p> <h3>4. Use Filters</h3> <p>Graduated neutral density (AKA ND grad) and polarizing filters are just as useful in monochrome photography as they are in colour. In fact, because they manipulate image contrast they are arguably more useful.</p><div class="instream_ad">
+<div align="center" data-freestar-ad="__300x250 __300x250" id="PetaPixel_728x90_300x250_BTF_Instream-posts-full_static_3">
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function(){
+      freestar.newAdSlots([{
+      placementName: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static',
+      slotId: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static_3'
+      }]);
+    });
+    </script>
+</div>
+</div>
+<p><img loading="lazy" src="https://petapixel.com/assets/uploads/2014/11/baw4.jpg" alt="baw4" width="610" height="669" class="aligncenter size-full wp-image-151907" srcset="https://petapixel.com/assets/uploads/2014/11/baw4.jpg 610w, https://petapixel.com/assets/uploads/2014/11/baw4-292x320.jpg 292w" sizes="(max-width: 610px) 100vw, 610px" /></p> <p>An ND grad is helpful when you want to retain detail in a bright sky while a polarizing filter can be used to reduce reflections and boost contrast. Alternatively, consider taking two or more shots with different exposures to create a high dynamic range (HDR) composite.</p> <p>Don’t be afraid to use a ND grad with a standard neural density filter if the sky is brighter than the foreground in a long exposure shot.</p> <p>Coloured filters, which are an essential tool for monochrome film photographers, can also be useful for manipulating contrast in digital images.</p> <p>They work by darkening objects of their opposite colour while lightening objects of their own. An orange filter, for example, will darken the blue of the sky while a green one will lighten foliage.</p> <h3>5. Take Control</h3> <p>Although coloured filters can still be used to manipulate contrast when shooting digital black and white images, it’s more common to save this work until the processing stage.</p> <p><img loading="lazy" src="https://petapixel.com/assets/uploads/2014/11/baw5.jpg" alt="baw5" width="610" height="328" class="aligncenter size-full wp-image-151908" srcset="https://petapixel.com/assets/uploads/2014/11/baw5.jpg 610w, https://petapixel.com/assets/uploads/2014/11/baw5-320x172.jpg 320w" sizes="(max-width: 610px) 100vw, 610px" /></p><div class="instream_ad">
+<div align="center" data-freestar-ad="__300x250 __300x250" id="PetaPixel_728x90_300x250_BTF_Instream-posts-full_static_4">
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function(){
+      freestar.newAdSlots([{
+      placementName: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static',
+      slotId: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static_4'
+      }]);
+    });
+    </script>
+</div>
+</div>
+<p>Until a few years ago Photoshop’s Channel Mixer was the preferred means of turning colour images monochrome, but now Adobe Camera Raw has more powerful tools (in the HSL/Grayscale tab) that allow you to adjust the brightness of eight individual colours that make up the image.</p> <p>It’s possible to adjust one of these colours to make it anything from white to black with the sliding control.</p> <p>However, it’s important to keep an eye on the whole image when adjusting a particular colour as subtle gradations can become unnatural looking.</p> <p>And adjusting the brightness of a red or pink shirt with the red sliding control, for instance, will have an impact on the model’s skin, especially the lips.</p> <p>The Levels and Curves controls can also be used to manipulate tonal range and contrast, but the HSL/Grayscale controls allow you to create separation between objects of the same brightness but with different colours.</p> <h3>6. Dodge and Burn</h3> <p>Dodging and burning is a technique that comes from the traditional darkroom and is usually used to burn in or darken highlights and hold back (brighten) shadows.</p> <p><img loading="lazy" src="https://petapixel.com/assets/uploads/2014/11/baw6.jpg" alt="baw6" width="610" height="407" class="aligncenter size-full wp-image-151909" srcset="https://petapixel.com/assets/uploads/2014/11/baw6.jpg 610w, https://petapixel.com/assets/uploads/2014/11/baw6-320x214.jpg 320w, https://petapixel.com/assets/uploads/2014/11/baw6-450x300.jpg 450w, https://petapixel.com/assets/uploads/2014/11/baw6-300x200.jpg 300w, https://petapixel.com/assets/uploads/2014/11/baw6-120x80.jpg 120w" sizes="(max-width: 610px) 100vw, 610px" /></p><div class="instream_ad">
+<div align="center" data-freestar-ad="__300x250 __300x250" id="PetaPixel_728x90_300x250_BTF_Instream-posts-full_static_5">
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function(){
+      freestar.newAdSlots([{
+      placementName: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static',
+      slotId: 'PetaPixel_728x90_300x250_BTF_Instream-posts-full_static_5'
+      }]);
+    });
+    </script>
+</div>
+</div>
+<p>Photoshop’s Dodge and Burn tools allow a level of control that film photographers could only dream of because you can target the highlights, shadows or mid-tones with both.</p> <p>This means that you can use the Burn tool to darken highlights when they are too bright, or the Dodge tool to brighten them to increase local contrast.</p> <p>It’s a great way of giving a sense of greater sharpness and enhancing texture.</p> <p>Plus, because you can set the opacity of the tools, you can build up their effect gradually so the impact is subtle and there are no hard edges.</p> <hr /> <p><i><b>About the author</b>: Jeff Meyer is the editor of <a href="http://www.photoventure.com/" data-wpel-link="external" target="_blank" rel="follow external noopener">PhotoVenture</a>, a photography blog for everything post-capture &#8212; improving photos, image management, sharing and more. This article originally appeared <a href="http://www.photoventure.com/2014/11/21/6-black-and-white-photography-tips-for-serious-mono-enthusiasts/" data-wpel-link="external" target="_blank" rel="follow external noopener">here</a>.</i></p> </div>
+<div class="post-tags">
+Tags: <a href="https://petapixel.com/tag/blackandwhite/" rel="tag">blackandwhite</a>, <a href="https://petapixel.com/tag/blackandwhitephotography/" rel="tag">blackandwhitephotography</a>, <a href="https://petapixel.com/tag/monochromatic/" rel="tag">monochromatic</a>, <a href="https://petapixel.com/tag/monochrome/" rel="tag">monochrome</a>, <a href="https://petapixel.com/tag/tips/" rel="tag">Tips</a></div>
+<div class="post-sharing">
+<div class="post-sharing__option post-sharing__option--socials">
+<div class="sharing-buttons">
+<div class="sharing-buttons__option sharing-buttons__option--fb">
+<div class="fb-share-button" data-href="https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/" data-layout="button_count" data-size="large" data-mobile-iframe="true">
+<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpetapixel.com%2F2014%2F11%2F24%2F6-black-white-photography-tips-monochrome-enthusiasts%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a>
+</div>
+</div>
+<div class="sharing-buttons__option sharing-buttons__option--twitter">
+<a class="twitter-share-button" href="https://twitter.com/intent/tweet" data-size="large">Tweet</a>
+</div>
+</div>
+</div>
+<div class="post-sharing__option post-sharing__option--comments">
+<h4 class="gray">
+<a href="https://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/#disqus_thread" class="disqus-comment-count" data-disqus-identifier="151899">20 Comments</a>
+</h4>
+</div>
+</div>
+<div class="post-comments">
+<div id="disqus_thread">
+<button id="show-comments" class="button waves-effect waves-button waves-light" onclick="if (!window.__cfRLUnblockHandlers) return false; loadComments();return false;" data-cf-modified-89d0dcecb1b4b3958972d94f-="">Load Comments</button>
+</div>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+    var disqus_loaded = false;
+    var disqus_shortname = 'petapixel';
+
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION
+     *  BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT:
+     *  https://disqus.com/admin/universalcode/#configuration-variables
+     */
+
+    var disqus_config = function () {
+      this.page.url = 'http://petapixel.com/2014/11/24/6-black-white-photography-tips-monochrome-enthusiasts/';
+      this.page.identifier = '151899';
+      this.page.title = '6 Black and White Photography Tips for Monochrome Enthusiasts';
+    };
+
+    function loadComments() {
+      if (!disqus_loaded)  {
+        disqus_loaded = true;
+        var e = document.createElement("script");
+        e.type = "text/javascript";
+        e.async = true;
+        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+        (document.getElementsByTagName("head")[0] ||
+        document.getElementsByTagName("body")[0])
+        .appendChild(e);
+      }
+    }
+
+    //Opens comments when linked to directly
+    var hash = window.location.hash.substr(1);
+    if (hash.length > 8) {
+        if (hash.substring(0, 8) == "comment-" || hash == 'disqus_thread') {
+            loadComments();
+        }
+    }
+
+    // Opens comments when clicking on a #disqus_thread anchor link.
+    window.addEventListener('hashchange', function(e){
+      if(window.location.hash.substr(1) == 'disqus_thread'){
+        loadComments();
+      }
+    }, false);
+
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+
+<div id="taboola-below-article-thumbnails"></div>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+      window._taboola = window._taboola || [];
+      _taboola.push({
+        mode: 'alternating-thumbnails-a',
+        container: 'taboola-below-article-thumbnails',
+        placement: 'Below Article Thumbnails',
+        target_type: 'mix'
+      });
+    </script>
+
+<div class="posts-nav">
+<div class="posts-nav__prev">
+<div class="posts-nav__heading">
+<h3><a href="https://petapixel.com/2014/11/24/reports-claim-faa-going-require-full-blown-pilots-license-fly-drones-commercially/">Prev</a></h3>
+</div>
+<div class="posts-nav__content">
+<figure>
+<a href="https://petapixel.com/2014/11/24/reports-claim-faa-going-require-full-blown-pilots-license-fly-drones-commercially/">
+<img width="320" height="214" src="https://petapixel.com/assets/uploads/2014/11/hexa1-320x214.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2014/11/hexa1-320x214.jpg 320w, https://petapixel.com/assets/uploads/2014/11/hexa1-450x300.jpg 450w, https://petapixel.com/assets/uploads/2014/11/hexa1-300x200.jpg 300w, https://petapixel.com/assets/uploads/2014/11/hexa1-120x80.jpg 120w, https://petapixel.com/assets/uploads/2014/11/hexa1.jpg 640w" sizes="(max-width: 320px) 100vw, 320px" width="320" height="214" /> </a>
+</figure>
+<div class="posts-nav__info">
+<h4><a href="https://petapixel.com/2014/11/24/reports-claim-faa-going-require-full-blown-pilots-license-fly-drones-commercially/">Reports Claim The FAA is Going to Require a Full Blown Pilot&#8217;s License to Fly Drones Commercially</a></h4>
+</div>
+</div>
+</div>
+<div class="posts-nav__next">
+<div class="posts-nav__heading">
+<h3><a href="https://petapixel.com/2014/11/24/makes-photographers-click-inspirational-moments-iconic-photographers/">Next</a></h3>
+</div>
+<div class="posts-nav__content">
+<figure>
+<a href="https://petapixel.com/2014/11/24/makes-photographers-click-inspirational-moments-iconic-photographers/">
+<img width="295" height="166" src="https://petapixel.com/assets/uploads/2014/11/hear-what-it-is-that-makes-photographers-click-in-this-inspirational-short.jpg" class="attachment-medium size-medium" alt="" loading="lazy" width="295" height="166" /> </a>
+</figure>
+<div class="posts-nav__info">
+<h4><a href="https://petapixel.com/2014/11/24/makes-photographers-click-inspirational-moments-iconic-photographers/">What Makes Photographers Click: Inspirational Moments with Iconic Photographers</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="banners banners-desktop banners-between-posts">
+
+<div align="center" data-freestar-ad="" id="PetaPixel_300x250_BTF_EndOfPosts">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "PetaPixel_300x250_BTF_EndOfPosts", slotId: "PetaPixel_300x250_BTF_EndOfPosts" });
+  </script>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="page__sidebar">
+<aside class="sidebar">
+<div class="banners banners-before-sidebar">
+
+<div align="center" data-freestar-ad="__336x280 __300x600" id="PetaPixel_300x600_300x250_320x50_Mobile-sidebar">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "PetaPixel_300x600_300x250_320x50_Mobile-sidebar", slotId: "PetaPixel_300x600_300x250_320x50_Mobile-sidebar" });
+  </script>
+</div>
+</div>
+<div class="trending-posts">
+<div class="trending-posts__heading">
+<h3>Trending Posts</h3>
+</div>
+<div class="trending-posts__posts">
+<article class="post-thumb is-featured is-expanded">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/10/yongnuo-yn455-a-new-android-powered-m43-mirrorless-camera/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/yongnuoyn455feat-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/yongnuoyn455feat-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/yongnuoyn455feat-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/yongnuoyn455feat-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/yongnuoyn455feat-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/yongnuoyn455feat-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/yongnuoyn455feat-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/yongnuoyn455feat.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/10/yongnuo-yn455-a-new-android-powered-m43-mirrorless-camera/" rel="bookmark">Yongnuo YN455: A New Android-Powered M43 Mirrorless Camera</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 10, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-featured is-expanded">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/12/photo-agency-argues-photojournalists-do-not-have-copyright-protections/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Photo-Agency-Argues-Photojournalists-Do-Not-Have-Copyright-Protection-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Photo-Agency-Argues-Photojournalists-Do-Not-Have-Copyright-Protection-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Photo-Agency-Argues-Photojournalists-Do-Not-Have-Copyright-Protection-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Photo-Agency-Argues-Photojournalists-Do-Not-Have-Copyright-Protection-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Photo-Agency-Argues-Photojournalists-Do-Not-Have-Copyright-Protection-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/Photo-Agency-Argues-Photojournalists-Do-Not-Have-Copyright-Protection-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Photo-Agency-Argues-Photojournalists-Do-Not-Have-Copyright-Protection-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Photo-Agency-Argues-Photojournalists-Do-Not-Have-Copyright-Protection.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/12/photo-agency-argues-photojournalists-do-not-have-copyright-protections/" rel="bookmark">Photo Agency Argues Photojournalists Do Not Have Copyright Protections</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 12, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-featured is-expanded">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/09/us-intelligence-agency-photoshops-cover-photo-of-diversity-report/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/odniphotoshoppedcoverfeat-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/odniphotoshoppedcoverfeat-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/odniphotoshoppedcoverfeat-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/odniphotoshoppedcoverfeat-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/odniphotoshoppedcoverfeat-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/odniphotoshoppedcoverfeat-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/odniphotoshoppedcoverfeat-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/odniphotoshoppedcoverfeat.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/09/us-intelligence-agency-photoshops-cover-photo-of-diversity-report/" rel="bookmark">US Intelligence Agency Photoshops Cover Photo of Diversity Report</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 09, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-featured is-expanded">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/09/the-back-roads-of-americana-photo-series-is-a-modernist-masterpiece/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/The-Back-Roads-of-Americana-Photo-Series-is-a-Modernist-Masterpiece-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/The-Back-Roads-of-Americana-Photo-Series-is-a-Modernist-Masterpiece-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/The-Back-Roads-of-Americana-Photo-Series-is-a-Modernist-Masterpiece-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/The-Back-Roads-of-Americana-Photo-Series-is-a-Modernist-Masterpiece-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/The-Back-Roads-of-Americana-Photo-Series-is-a-Modernist-Masterpiece-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/The-Back-Roads-of-Americana-Photo-Series-is-a-Modernist-Masterpiece-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/The-Back-Roads-of-Americana-Photo-Series-is-a-Modernist-Masterpiece-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/The-Back-Roads-of-Americana-Photo-Series-is-a-Modernist-Masterpiece.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/09/the-back-roads-of-americana-photo-series-is-a-modernist-masterpiece/" rel="bookmark">The &#8216;Back Roads of Americana&#8217; Photo Series is a Modernist Masterpiece</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 09, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-featured is-expanded">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/12/google-overhauls-drive-desktop-app-will-connect-it-to-google-photos/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Google-Overhauls-Relaunches-Drive-Desktop-App-for-Windows-and-Mac-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Google-Overhauls-Relaunches-Drive-Desktop-App-for-Windows-and-Mac-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Google-Overhauls-Relaunches-Drive-Desktop-App-for-Windows-and-Mac-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Google-Overhauls-Relaunches-Drive-Desktop-App-for-Windows-and-Mac-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Google-Overhauls-Relaunches-Drive-Desktop-App-for-Windows-and-Mac-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/Google-Overhauls-Relaunches-Drive-Desktop-App-for-Windows-and-Mac-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Google-Overhauls-Relaunches-Drive-Desktop-App-for-Windows-and-Mac-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Google-Overhauls-Relaunches-Drive-Desktop-App-for-Windows-and-Mac.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/12/google-overhauls-drive-desktop-app-will-connect-it-to-google-photos/" rel="bookmark">Google Overhauls Drive Desktop App, Will Connect it to Google Photos</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 12, 2021</time>
+</div>
+</div>
+</article>
+
+<div align="center" data-freestar-ad="__336x280" id="PetaPixel_medrec_siderail_1" class="adunit">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "PetaPixel_medrec_siderail_1", slotId: "PetaPixel_medrec_siderail_1" });
+  </script>
+</div>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2014/05/29/70-inspirational-quotes-photographers/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2014/05/photoquotes1-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2014/05/photoquotes1-300x157.jpg 300w, https://petapixel.com/assets/uploads/2014/05/photoquotes1-150x79.jpg 150w, https://petapixel.com/assets/uploads/2014/05/photoquotes1-400x209.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2014/05/29/70-inspirational-quotes-photographers/" rel="bookmark">70 Inspirational Quotes for Photographers</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">May 29, 2014</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/09/fujifilm-pivoting-to-healthcare-but-claims-it-wont-abandon-photography/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Fujifilm-Pivoting-to-Healthcare-But-Claims-it-Wont-Abandon-Photography-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Fujifilm-Pivoting-to-Healthcare-But-Claims-it-Wont-Abandon-Photography-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Fujifilm-Pivoting-to-Healthcare-But-Claims-it-Wont-Abandon-Photography-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Fujifilm-Pivoting-to-Healthcare-But-Claims-it-Wont-Abandon-Photography-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Fujifilm-Pivoting-to-Healthcare-But-Claims-it-Wont-Abandon-Photography-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/Fujifilm-Pivoting-to-Healthcare-But-Claims-it-Wont-Abandon-Photography-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Fujifilm-Pivoting-to-Healthcare-But-Claims-it-Wont-Abandon-Photography-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Fujifilm-Pivoting-to-Healthcare-But-Claims-it-Wont-Abandon-Photography.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/09/fujifilm-pivoting-to-healthcare-but-claims-it-wont-abandon-photography/" rel="bookmark">Fujifilm Pivoting to Healthcare, But Claims it Won&#8217;t Abandon Photography</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 09, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-featured is-expanded">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/09/largesense-launches-the-ls45-a-full-size-4x5-large-format-digital-back/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/LargeSense-Launches-First-Full-Size-4x5-Large-Format-Digital-Back-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/LargeSense-Launches-First-Full-Size-4x5-Large-Format-Digital-Back-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/LargeSense-Launches-First-Full-Size-4x5-Large-Format-Digital-Back-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/LargeSense-Launches-First-Full-Size-4x5-Large-Format-Digital-Back-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/LargeSense-Launches-First-Full-Size-4x5-Large-Format-Digital-Back-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/LargeSense-Launches-First-Full-Size-4x5-Large-Format-Digital-Back-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/LargeSense-Launches-First-Full-Size-4x5-Large-Format-Digital-Back-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/LargeSense-Launches-First-Full-Size-4x5-Large-Format-Digital-Back.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/09/largesense-launches-the-ls45-a-full-size-4x5-large-format-digital-back/" rel="bookmark">LargeSense Launches the LS45: a Full-Size 4&#215;5 Large Format Digital Back</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 09, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/12/unusual-adapter-places-a-polarizing-filter-between-lens-and-sensor/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Unusual-Adapter-Places-a-Polarizing-Filter-Between-Lens-and-Sensor-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Unusual-Adapter-Places-a-Polarizing-Filter-Between-Lens-and-Sensor-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Unusual-Adapter-Places-a-Polarizing-Filter-Between-Lens-and-Sensor-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Unusual-Adapter-Places-a-Polarizing-Filter-Between-Lens-and-Sensor-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Unusual-Adapter-Places-a-Polarizing-Filter-Between-Lens-and-Sensor-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/Unusual-Adapter-Places-a-Polarizing-Filter-Between-Lens-and-Sensor-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Unusual-Adapter-Places-a-Polarizing-Filter-Between-Lens-and-Sensor-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Unusual-Adapter-Places-a-Polarizing-Filter-Between-Lens-and-Sensor.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/12/unusual-adapter-places-a-polarizing-filter-between-lens-and-sensor/" rel="bookmark">Unusual Adapter Places a Polarizing Filter Between Lens and Sensor</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 12, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-featured is-expanded">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/08/lightograph-unveiled-the-next-evolution-of-the-photograph/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/jeremy-cowart-lightograph-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/jeremy-cowart-lightograph-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/jeremy-cowart-lightograph-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/jeremy-cowart-lightograph-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/jeremy-cowart-lightograph-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/jeremy-cowart-lightograph-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/jeremy-cowart-lightograph.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/08/lightograph-unveiled-the-next-evolution-of-the-photograph/" rel="bookmark">Lightograph Unveiled: The &#8216;Next Evolution of the Photograph&#8217;</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 08, 2021</time>
+</div>
+</div>
+</article>
+
+<div align="center" data-freestar-ad="__336x280" id="PetaPixel_medrec_siderail_2" class="adunit">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "PetaPixel_medrec_siderail_2", slotId: "PetaPixel_medrec_siderail_2" });
+  </script>
+</div>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/11/great-reads-in-photography-july-11-2021/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Header210711-copy-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Header210711-copy-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Header210711-copy-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Header210711-copy-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Header210711-copy-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Header210711-copy-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Header210711-copy.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/11/great-reads-in-photography-july-11-2021/" rel="bookmark">Great Reads in Photography: July 11, 2021</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 11, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/12/a-full-detailed-tutorial-on-how-to-photograph-birds-and-wildlife/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/A-Full-Tutorial-on-How-to-Photograph-Birds-and-Wildlife-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/A-Full-Tutorial-on-How-to-Photograph-Birds-and-Wildlife-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/A-Full-Tutorial-on-How-to-Photograph-Birds-and-Wildlife-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/A-Full-Tutorial-on-How-to-Photograph-Birds-and-Wildlife-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/A-Full-Tutorial-on-How-to-Photograph-Birds-and-Wildlife-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/A-Full-Tutorial-on-How-to-Photograph-Birds-and-Wildlife-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/A-Full-Tutorial-on-How-to-Photograph-Birds-and-Wildlife-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/A-Full-Tutorial-on-How-to-Photograph-Birds-and-Wildlife.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/12/a-full-detailed-tutorial-on-how-to-photograph-birds-and-wildlife/" rel="bookmark">A Full, Detailed Tutorial on How to Photograph Birds and Wildlife</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 12, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/12/photographers-covering-the-olympics-faced-with-mounting-challenges/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Photographers-Covering-the-Olympics-Faced-With-Mounting-Challenges-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Photographers-Covering-the-Olympics-Faced-With-Mounting-Challenges-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Photographers-Covering-the-Olympics-Faced-With-Mounting-Challenges-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Photographers-Covering-the-Olympics-Faced-With-Mounting-Challenges-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Photographers-Covering-the-Olympics-Faced-With-Mounting-Challenges-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/Photographers-Covering-the-Olympics-Faced-With-Mounting-Challenges-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Photographers-Covering-the-Olympics-Faced-With-Mounting-Challenges-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Photographers-Covering-the-Olympics-Faced-With-Mounting-Challenges.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/12/photographers-covering-the-olympics-faced-with-mounting-challenges/" rel="bookmark">Photographers Covering the Olympics Faced With Mounting Challenges</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">24 hours ago</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/10/how-to-create-natural-light-with-strobes-big-modifiers-and-bouncing-flash/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Natural-light-howto-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Natural-light-howto-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Natural-light-howto-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Natural-light-howto-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Natural-light-howto-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/Natural-light-howto-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Natural-light-howto-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Natural-light-howto.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/10/how-to-create-natural-light-with-strobes-big-modifiers-and-bouncing-flash/" rel="bookmark">How to Create Natural Light with Strobes: Big Modifiers and Bouncing Flash</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 10, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/02/17/explore-the-surface-of-mars-in-first-ever-stunning-4k-videos/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/02/Explore-the-Surface-of-Mars-in-First-Ever-Stunning-4K-Videos-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/02/Explore-the-Surface-of-Mars-in-First-Ever-Stunning-4K-Videos-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/02/Explore-the-Surface-of-Mars-in-First-Ever-Stunning-4K-Videos-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/02/Explore-the-Surface-of-Mars-in-First-Ever-Stunning-4K-Videos-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/02/Explore-the-Surface-of-Mars-in-First-Ever-Stunning-4K-Videos-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/02/Explore-the-Surface-of-Mars-in-First-Ever-Stunning-4K-Videos-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/02/Explore-the-Surface-of-Mars-in-First-Ever-Stunning-4K-Videos-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/02/Explore-the-Surface-of-Mars-in-First-Ever-Stunning-4K-Videos.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/02/17/explore-the-surface-of-mars-in-first-ever-stunning-4k-videos/" rel="bookmark">Explore the Surface of Mars in First-Ever Stunning 4K Videos</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Feb 17, 2021</time>
+</div>
+</div>
+</article>
+
+<div align="center" data-freestar-ad="__336x280" id="PetaPixel_medrec_siderail_3" class="adunit">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "PetaPixel_medrec_siderail_3", slotId: "PetaPixel_medrec_siderail_3" });
+  </script>
+</div>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/08/dusty-roadrunner-photo-wins-the-2021-audubon-photography-awards/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Dusty-Roadrunner-Photo-Wins-the-2021-Audubon-Photography-Awards-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Dusty-Roadrunner-Photo-Wins-the-2021-Audubon-Photography-Awards-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Dusty-Roadrunner-Photo-Wins-the-2021-Audubon-Photography-Awards-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Dusty-Roadrunner-Photo-Wins-the-2021-Audubon-Photography-Awards-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Dusty-Roadrunner-Photo-Wins-the-2021-Audubon-Photography-Awards-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/Dusty-Roadrunner-Photo-Wins-the-2021-Audubon-Photography-Awards-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Dusty-Roadrunner-Photo-Wins-the-2021-Audubon-Photography-Awards-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Dusty-Roadrunner-Photo-Wins-the-2021-Audubon-Photography-Awards.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/08/dusty-roadrunner-photo-wins-the-2021-audubon-photography-awards/" rel="bookmark">Dusty Roadrunner Photo Wins the 2021 Audubon Photography Awards</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 08, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/08/has-the-sony-alpha-7-iv-been-leaked-by-a-new-underwater-housing/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Sony-Alpha-7-IV-Underwater-Housing-Renews-Launch-Speculation-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Sony-Alpha-7-IV-Underwater-Housing-Renews-Launch-Speculation-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Sony-Alpha-7-IV-Underwater-Housing-Renews-Launch-Speculation-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Sony-Alpha-7-IV-Underwater-Housing-Renews-Launch-Speculation-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Sony-Alpha-7-IV-Underwater-Housing-Renews-Launch-Speculation-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/Sony-Alpha-7-IV-Underwater-Housing-Renews-Launch-Speculation-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Sony-Alpha-7-IV-Underwater-Housing-Renews-Launch-Speculation-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Sony-Alpha-7-IV-Underwater-Housing-Renews-Launch-Speculation.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/08/has-the-sony-alpha-7-iv-been-leaked-by-a-new-underwater-housing/" rel="bookmark">Has the Sony Alpha 7 IV Been Leaked By a New Underwater Housing?</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 08, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/09/couple-contrasts-abandoned-spaces-and-colorful-coats-in-surreal-photos/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/Abandoned-urbex-yellow-jackets-petapixel-1-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/Abandoned-urbex-yellow-jackets-petapixel-1-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/Abandoned-urbex-yellow-jackets-petapixel-1-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/Abandoned-urbex-yellow-jackets-petapixel-1-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/Abandoned-urbex-yellow-jackets-petapixel-1-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/Abandoned-urbex-yellow-jackets-petapixel-1-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/Abandoned-urbex-yellow-jackets-petapixel-1-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/Abandoned-urbex-yellow-jackets-petapixel-1.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/09/couple-contrasts-abandoned-spaces-and-colorful-coats-in-surreal-photos/" rel="bookmark">Couple Contrasts Abandoned Spaces and Colorful Coats in Surreal Photos</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 09, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-featured is-expanded">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/01/brickits-ai-camera-scans-your-lego-to-suggest-things-you-can-build/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/legobrickitfeattt-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/legobrickitfeattt-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/legobrickitfeattt-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/legobrickitfeattt-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/legobrickitfeattt-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/legobrickitfeattt-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/legobrickitfeattt-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/legobrickitfeattt.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/01/brickits-ai-camera-scans-your-lego-to-suggest-things-you-can-build/" rel="bookmark">Brickit&#8217;s AI Camera Scans Your LEGO to Suggest Things You Can Build</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 01, 2021</time>
+</div>
+</div>
+</article>
+<article class="post-thumb is-not-featured is-card">
+<figure class="post-thumb__figure">
+<a href="https://petapixel.com/2021/07/09/six-reasons-why-the-most-successful-photographers-choose-format/">
+<img width="300" height="157" src="https://petapixel.com/assets/uploads/2021/07/formatfeat-300x157.jpg" class="attachment-card-thumb size-card-thumb" alt="" loading="lazy" srcset="https://petapixel.com/assets/uploads/2021/07/formatfeat-300x157.jpg 300w, https://petapixel.com/assets/uploads/2021/07/formatfeat-320x168.jpg 320w, https://petapixel.com/assets/uploads/2021/07/formatfeat-800x420.jpg 800w, https://petapixel.com/assets/uploads/2021/07/formatfeat-1536x806.jpg 1536w, https://petapixel.com/assets/uploads/2021/07/formatfeat-150x79.jpg 150w, https://petapixel.com/assets/uploads/2021/07/formatfeat-400x209.jpg 400w, https://petapixel.com/assets/uploads/2021/07/formatfeat.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" width="300" height="157" /> </a>
+</figure>
+<div class="post-thumb__info">
+<h4><a href="https://petapixel.com/2021/07/09/six-reasons-why-the-most-successful-photographers-choose-format/" rel="bookmark">Six Reasons Why the Most Successful Photographers Choose Format</a></h4>
+<div class="post-thumb__meta">
+<time class="post-thumb__date">Jul 09, 2021</time>
+</div>
+</div>
+</article>
+</div>
+<div class="trending-posts__bottom">
+<a href="https://petapixel.com/archives" class="button medium black">Archives</a>
+</div>
+</div>
+<div id="fixed-ad-container" class="banners banners-after-sidebar">
+
+<div align="center" data-freestar-ad="__336x280 __300x600" id="PetaPixel_300x600_300x250_320x50_Mobile-sidebar-sticky">
+<script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "PetaPixel_300x600_300x250_320x50_Mobile-sidebar-sticky", slotId: "PetaPixel_300x600_300x250_320x50_Mobile-sidebar-sticky" });
+  </script>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<footer class="footer-main" role="contentinfo">
+<div class="footer-main__row">
+<div class="footer-main__leftside">
+<nav class="footer-nav" role="navigation">
+<ul id="menu-footer-navigation" class="menu"><li id="menu-item-512014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512014"><a href="https://petapixel.com/home/">Home</a></li>
+<li id="menu-item-205490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205490"><a href="https://petapixel.com/archives/">Archives</a></li>
+<li id="menu-item-512016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512016"><a href="https://petapixel.com/contact/">Contact</a></li>
+<li id="menu-item-512015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512015"><a href="https://petapixel.com/advertise/">Advertise</a></li>
+<li id="menu-item-512013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512013"><a href="https://petapixel.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-512012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512012"><a href="https://petapixel.com/disclosure/">Full Disclosure</a></li>
+</ul> </nav>
+<p class="footer-main__copyright">Copyright &copy; 2021 PetaPixel</p>
+</div>
+<div class="footer-main__rightside">
+<div class="footer-subscribe">
+<div class="footer-subscribe__inner">
+<h4 class="upper">subscribe our newsletter<br>to stay up to date</h4>
+<form action="//petapixel.us4.list-manage.com/subscribe/post?u=51e546f891b63e44f8638ec0e&amp;id=b23d56ed7e" method="post" role="form" target="_blank" class="">
+<fieldset>
+<input type="email" name="EMAIL" placeholder="your email" required="required">
+</fieldset>
+<input type="submit" value="Subscribe">
+
+<div style="position: absolute; left: -5000px;"><input type="text" name="b_c936e6d50a1b870cefefb7762_4e843ebf82" value=""></div>
+</form>
+</div>
+</div>
+<div class="footer-main__socials">
+<ul class="no-list">
+<li>
+<a target="_blank" href="https://www.facebook.com/petapixelcom">
+<div class="social fb hover"></div>
+<span>500 K</span>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/PetaPixel">
+<div class="social twitter hover"></div>
+<span>1 M</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+    var vglnk = { key: 'dae5b94bb21a32cc7c141a041d18f05b' };
+
+    (function(d, t) {
+      var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+      s.src = '//api.viglink.com/api/vglnk.js?key=' + vglnk.key;
+      var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+    }(document, 'script'));
+  </script>
+
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"petapixel"};
+/* ]]> */
+</script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" src='https://petapixel.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.22' id='disqus_count-js'></script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" id='theme_scripts-js-extra'>
+/* <![CDATA[ */
+var theme = {"base_url":"https:\/\/petapixel.com","template_dir":"https:\/\/petapixel.com\/wp-content\/themes\/petapixel-2017\/","ajax_load_url":"https:\/\/petapixel.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" src='https://petapixel.com/wp-content/themes/petapixel-2017/assets/prod/js/main.js?ver=2.0.49' id='theme_scripts-js'></script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" id='q2w3_fixed_widget-js-extra'>
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"q2w3-default-sidebar","margin_top":55,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["fixed-ad-container"]}];
+/* ]]> */
+</script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" src='https://petapixel.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.3.0' id='q2w3_fixed_widget-js'></script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript" src='https://petapixel.com/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+<script src='https://stats.wp.com/e-202128.js' defer type="89d0dcecb1b4b3958972d94f-text/javascript"></script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.9',blog:'191656271',post:'151899',tz:'-7',srv:'petapixel.com'} ]);
+	_stq.push([ 'clickTrackerInit', '191656271', '151899' ]);
+</script>
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-UeXruRVtZz7w6"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-UeXruRVtZz7w6.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+
+<script type="89d0dcecb1b4b3958972d94f-text/javascript">
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "23384447" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=23384447&cv=2.0&cj=1" />
+</noscript>
+
+<script id="dsq-count-scr" src="//petapixel.disqus.com/count.js" async type="89d0dcecb1b4b3958972d94f-text/javascript"></script>
+<style>
+.banners-above-header iframe {
+  margin: auto;
+  display: block;
+}
+.share-box-link.share-style-1.twitter .box {
+  margin-left: 30px;
+}
+.share-box-link.share-style-1.twitter .count,
+.post-meta .option-twitter {
+  display: none;
+}
+</style>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="89d0dcecb1b4b3958972d94f-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"66f15742faca3d9a","token":"03980350503e4e4cb4167f015e3ac795","version":"2021.6.0","si":10}'></script>
+</body>
+</html>
